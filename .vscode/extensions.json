@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    "pkief.material-icon-theme",
+    "aaron-bond.better-comments",
+    "oderwat.indent-rainbow",
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint",
+    "eamodio.gitlens",
+    "mechatroner.rainbow-csv"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "editor.semanticHighlighting.enabled": true,
+  "editor.bracketPairColorization.enabled": true,
+  "editor.guides.bracketPairs": "active",
+  "editor.guides.indentation": true,
+
+  "indentRainbow.colors": [
+    "rgba(255, 216, 102, 0.07)",
+    "rgba(255, 97, 136, 0.07)",
+    "rgba(120, 220, 232, 0.07)",
+    "rgba(169, 220, 118, 0.07)",
+    "rgba(171, 157, 242, 0.07)",
+    "rgba(252, 152, 103, 0.07)"
+  ],
+
+  "better-comments.tags": [
+    {
+      "tag": "!",
+      "color": "#FF6188",
+      "strikethrough": false,
+      "underline": false,
+      "bold": true,
+      "italic": true
+    },
+    {
+      "tag": "?",
+      "color": "#FC9867",
+      "strikethrough": false,
+      "underline": false,
+      "bold": false,
+      "italic": true
+    },
+    {
+      "tag": "*",
+      "color": "#FFD866",
+      "strikethrough": false,
+      "underline": false,
+      "bold": false,
+      "italic": true
+    },
+    {
+      "tag": "TODO",
+      "color": "#78DCE8",
+      "strikethrough": false,
+      "underline": false,
+      "bold": true,
+      "italic": true
+    },
+    {
+      "tag": "NOTE",
+      "color": "#AB9DF2",
+      "strikethrough": false,
+      "underline": false,
+      "bold": false,
+      "italic": true
+    }
+  ]
+}

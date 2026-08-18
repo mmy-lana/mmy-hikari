@@ -1,0 +1,62 @@
+{
+  "name": "mmy-hikari",
+  "displayName": "Hikari Suite",
+  "description": "Artisan 4-tier theme suite: Charcoal, Midnight OLED, Japanese Washi Paper, and E-Book Sepia with deep semantic highlighting.",
+  "version": "1.0.0",
+  "publisher": "mmy-lana",
+  "author": {
+    "name": "Muhammad Maulana Yusuf",
+    "url": "https://github.com/mmy-lana"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mmy-lana/mmy-hikari.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mmy-lana/mmy-hikari/issues"
+  },
+  "homepage": "https://github.com/mmy-lana/mmy-hikari#readme",
+  "license": "MIT",
+  "keywords": [
+    "hikari",
+    "e-ink",
+    "e-book",
+    "paper",
+    "oled",
+    "pastel",
+    "semantic",
+    "eye-strain",
+    "better-comments"
+  ],
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "icon.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Hikari Charcoal (Dark)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/hikari-charcoal.json"
+      },
+      {
+        "label": "Hikari Midnight (OLED Dark)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/hikari-midnight.json"
+      },
+      {
+        "label": "Hikari Paper (Light)",
+        "uiTheme": "vs",
+        "path": "./themes/hikari-paper.json"
+      },
+      {
+        "label": "Hikari E-Book (Warm Sepia Light)",
+        "uiTheme": "vs",
+        "path": "./themes/hikari-e-book.json"
+      }
+    ]
+  }
+}
