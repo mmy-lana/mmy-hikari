@@ -2,7 +2,7 @@
   "name": "mmy-hikari",
   "displayName": "Hikari Suite",
   "description": "Artisan 4-tier theme suite: Charcoal, Midnight OLED, Japanese Washi Paper, and E-Book Sepia with deep semantic highlighting.",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "main": "./extension.js",
   "activationEvents": [
     "onCommand:hikari.selectTheme"
