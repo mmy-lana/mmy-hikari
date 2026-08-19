@@ -2,7 +2,7 @@
   "name": "mmy-hikari",
   "displayName": "Hikari Suite",
   "description": "Artisan 4-tier theme suite: Charcoal, Midnight OLED, Japanese Washi Paper, and E-Book Sepia with deep semantic highlighting.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "mmy-lana",
   "author": {
     "name": "Muhammad Maulana Yusuf",
@@ -56,6 +56,13 @@
         "label": "Hikari E-Book (Warm Sepia Light)",
         "uiTheme": "vs",
         "path": "./themes/hikari-e-book.json"
+      }
+    ],
+    "commands": [
+      {
+        "command": "workbench.action.selectTheme",
+        "title": "Hikari: Select Color Theme",
+        "category": "Preferences"
       }
     ]
   }
