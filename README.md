@@ -6,7 +6,7 @@ Created by **Muhammad Maulana Yusuf** ([@mmy-lana](https://github.com/mmy-lana))
 
 ---
 
-## 🎨 4 Curated Variants
+## 4 Curated Variants
 
 | Theme | Mood | Canvas Hex | Best For |
 | :--- | :--- | :--- | :--- |
@@ -17,7 +17,7 @@ Created by **Muhammad Maulana Yusuf** ([@mmy-lana](https://github.com/mmy-lana))
 
 ---
 
-## ⚡ Framework & Language Coverage
+## Framework & Language Coverage
 
 Hikari includes deep token definitions and semantic highlighting for:
 * **Frontend**: TypeScript, JavaScript, React (JSX/TSX), Vue (`v-` directives), Svelte (`$` stores & bindings), Angular templates, Tailwind CSS, SCSS, HTML5.
@@ -26,7 +26,7 @@ Hikari includes deep token definitions and semantic highlighting for:
 
 ---
 
-## 🧩 Visual Companion Support
+## Visual Companion Support
 
 Hikari works out-of-the-box with your favorite developer extensions without modifying your global settings:
 * **Better Comments** (`aaron-bond.better-comments`): Styled scopes for `!`, `?`, `*`, `TODO`, and `NOTE`.
@@ -36,7 +36,7 @@ Hikari works out-of-the-box with your favorite developer extensions without modi
 
 ---
 
-## 🚀 Installation & Activation
+## Installation & Activation
 
 1. Open VS Code extensions (`Ctrl+Shift+X` / `Cmd+Shift+X`).
 2. Search for **`Hikari Suite`** or publisher `mmy-lana`.
@@ -45,7 +45,7 @@ Hikari works out-of-the-box with your favorite developer extensions without modi
 
 ---
 
-## 💡 Optional: Workspace Visual Customization
+## Optional: Workspace Visual Customization
 
 To enable soft pastel indentation guides and colorized comment tags, add this snippet to your `.vscode/settings.json`:
 
@@ -64,13 +64,13 @@ To enable soft pastel indentation guides and colorized comment tags, add this sn
 
 ---
 
-## ☕ Author & Community
+## Author & Community
 
 - **GitHub**: [@mmy-lana](https://github.com/mmy-lana)
 - **Suite Projects**: [leak-doctor](https://github.com/mmy-lana/leak-doctor) • [fetch-doctor](https://github.com/mmy-lana/fetch-doctor) • [mmy-css](https://github.com/mmy-lana/mmy-css)
 
 ---
 
-## 📄 License
+## License
 
 [MIT](LICENSE) © Muhammad Maulana Yusuf
